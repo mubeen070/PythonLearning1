@@ -1,0 +1,34 @@
+Name:Mubeen
+Father's Name:Khalid
+Email:mubeen070@gmail.com
+Adress:House#295
+
+Name:Zain
+Father's Name:Ather
+Email:zain@gmail.com
+Adress:house#204
+
+Name:george
+Father's Name:mike
+Email:george@gmail.com
+Adress:house#200
+
+Name:waleed
+Father's Name:naveed
+Email:waleed@gmail.com
+Adress:house#205
+
+Name:Waleed
+Father's Name:Naveed
+Email:waleed@gmail.com
+Adress:house#2004
+
+Name:Waleed
+Father's Name:Naveed
+Email:waleed@gmail.com
+Adress:House#2003
+
+Name:Ali
+Father's Name:Tariq
+Email:ali@gmail.com
+Adress:house#0234
